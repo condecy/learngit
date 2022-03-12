@@ -5,3 +5,4 @@ git tracks changes youkouw.
 
 creating a new branch is quick.
 add merge:forbide fast forward.
+add merge3
